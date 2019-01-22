@@ -23,7 +23,7 @@
 #include <ArduinoJWT.h>
 #include <sha256.h>
 
-const char* ssid = "Santyman";
+const char* ssid = "Santosh";
 const char* password = "adidas12GE@";
 
 const char* host = "hackathon021.service-now.com";
