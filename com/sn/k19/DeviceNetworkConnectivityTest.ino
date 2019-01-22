@@ -1,5 +1,3 @@
-
-
 /*
     HTTP over TLS (HTTPS) example sketch
 
@@ -24,9 +22,9 @@
 #include <sha256.h>
 
 const char* ssid = "Santosh";
-const char* password = "adidas12GE@";
+const char* password = "test123";
 
-const char* host = "hackathon021.service-now.com";
+const char* host = "hackathon0212.service-now.com";
 const int httpsPort = 443;
 
 // Use web browser to view and copy
